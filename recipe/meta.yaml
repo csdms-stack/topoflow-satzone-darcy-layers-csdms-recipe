@@ -1,4 +1,4 @@
-{% set name = "topoflow-satzone-darcy-layers-balance-csdms" %}
+{% set name = "csdms-topoflow-satzone-darcy-layers-balance" %}
 {% set version = "3.4" %}
 
 package:
